@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alpammm.github.io/ALhugo/</loc>
+    <loc>https://alpapam.github.io/</loc>
     <lastmod>2024-10-04T20:34:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alpammm.github.io/ALhugo/en/"
+                href="https://alpapam.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://alpammm.github.io/ALhugo/"
+                href="https://alpapam.github.io/"
                 />
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/p/%E4%BA%94%E5%91%B3%E6%96%87.%E9%83%81%E5%8F%B3/</loc>
+    <loc>https://alpapam.github.io/p/%E4%BA%94%E5%91%B3%E6%96%87.%E9%83%81%E5%8F%B3/</loc>
     <lastmod>2024-10-04T20:34:15+08:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/post/</loc>
+    <loc>https://alpapam.github.io/post/</loc>
     <lastmod>2024-10-04T20:34:15+08:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/categories/</loc>
+    <loc>https://alpapam.github.io/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alpammm.github.io/ALhugo/en/categories/"
+                href="https://alpapam.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://alpammm.github.io/ALhugo/categories/"
+                href="https://alpapam.github.io/categories/"
                 />
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/p/test-chinese/</loc>
+    <loc>https://alpapam.github.io/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/categories/test/</loc>
+    <loc>https://alpapam.github.io/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://alpapam.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/page/</loc>
+    <loc>https://alpapam.github.io/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/archives/</loc>
+    <loc>https://alpapam.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/tags/css/</loc>
+    <loc>https://alpapam.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/tags/html/</loc>
+    <loc>https://alpapam.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/tags/markdown/</loc>
+    <loc>https://alpapam.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/p/markdown-syntax-guide/</loc>
+    <loc>https://alpapam.github.io/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/categories/syntax/</loc>
+    <loc>https://alpapam.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/tags/</loc>
+    <loc>https://alpapam.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alpammm.github.io/ALhugo/en/tags/"
+                href="https://alpapam.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://alpammm.github.io/ALhugo/tags/"
+                href="https://alpapam.github.io/tags/"
                 />
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/tags/themes/</loc>
+    <loc>https://alpapam.github.io/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/categories/themes/</loc>
+    <loc>https://alpapam.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/p/placeholder-text/</loc>
+    <loc>https://alpapam.github.io/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/tags/tag-with-whitespaces/</loc>
+    <loc>https://alpapam.github.io/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/categories/test-with-whitespaces/</loc>
+    <loc>https://alpapam.github.io/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/tags/text/</loc>
+    <loc>https://alpapam.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/p/math-typesetting/</loc>
+    <loc>https://alpapam.github.io/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/tags/emoji/</loc>
+    <loc>https://alpapam.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/p/emoji-support/</loc>
+    <loc>https://alpapam.github.io/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://alpapam.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://alpapam.github.io/%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/search/</loc>
+    <loc>https://alpapam.github.io/search/</loc>
   </url>
 </urlset>

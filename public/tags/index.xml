@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on ALPA</title>
-        <link>https://alpammm.github.io/ALhugo/tags/</link>
+        <link>https://alpapam.github.io/tags/</link>
         <description>Recent content in Tags on ALPA</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>ALpapa</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alpammm.github.io/ALhugo/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alpapam.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Css</title>
-        <link>https://alpammm.github.io/ALhugo/tags/css/</link>
+        <link>https://alpapam.github.io/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://alpammm.github.io/ALhugo/tags/css/</guid>
+        <guid>https://alpapam.github.io/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>https://alpammm.github.io/ALhugo/tags/html/</link>
+        <link>https://alpapam.github.io/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://alpammm.github.io/ALhugo/tags/html/</guid>
+        <guid>https://alpapam.github.io/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>https://alpammm.github.io/ALhugo/tags/markdown/</link>
+        <link>https://alpapam.github.io/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://alpammm.github.io/ALhugo/tags/markdown/</guid>
+        <guid>https://alpapam.github.io/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://alpammm.github.io/ALhugo/tags/themes/</link>
+        <link>https://alpapam.github.io/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://alpammm.github.io/ALhugo/tags/themes/</guid>
+        <guid>https://alpapam.github.io/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag With Whitespaces</title>
-        <link>https://alpammm.github.io/ALhugo/tags/tag-with-whitespaces/</link>
+        <link>https://alpapam.github.io/tags/tag-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://alpammm.github.io/ALhugo/tags/tag-with-whitespaces/</guid>
+        <guid>https://alpapam.github.io/tags/tag-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>Text</title>
-        <link>https://alpammm.github.io/ALhugo/tags/text/</link>
+        <link>https://alpapam.github.io/tags/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://alpammm.github.io/ALhugo/tags/text/</guid>
+        <guid>https://alpapam.github.io/tags/text/</guid>
         <description></description>
         </item>
         <item>
         <title>Emoji</title>
-        <link>https://alpammm.github.io/ALhugo/tags/emoji/</link>
+        <link>https://alpapam.github.io/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://alpammm.github.io/ALhugo/tags/emoji/</guid>
+        <guid>https://alpapam.github.io/tags/emoji/</guid>
         <description></description>
         </item>
         

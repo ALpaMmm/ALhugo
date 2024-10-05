@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alpammm.github.io/ALhugo/en/categories/</loc>
+    <loc>https://alpapam.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://alpammm.github.io/ALhugo/categories/"
+                href="https://alpapam.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alpammm.github.io/ALhugo/en/categories/"
+                href="https://alpapam.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/en/</loc>
+    <loc>https://alpapam.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://alpammm.github.io/ALhugo/"
+                href="https://alpapam.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alpammm.github.io/ALhugo/en/"
+                href="https://alpapam.github.io/en/"
                 />
   </url><url>
-    <loc>https://alpammm.github.io/ALhugo/en/tags/</loc>
+    <loc>https://alpapam.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://alpammm.github.io/ALhugo/tags/"
+                href="https://alpapam.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alpammm.github.io/ALhugo/en/tags/"
+                href="https://alpapam.github.io/en/tags/"
                 />
   </url>
 </urlset>
